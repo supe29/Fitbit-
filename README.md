@@ -4,4 +4,5 @@ Streamlit with option:
   -predicting calories depending on feature input
   -Time series analysis 
   -AI computer vision for workout calorie burn calculater
+  (METs x weight in kg x time in hours.)
   
