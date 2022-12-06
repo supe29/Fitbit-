@@ -1,6 +1,9 @@
 # Fitbit-
-Dataviz and ml with production
+Master branch 
+-Fast API-uvicorn run(api.fastapi:app --reload)
 
+Dataviz and ml with production
+- run streamlit(streamlit run fitbitapp.py")
 Streamlit with option:
 
   -predicting calories depending on feature input
